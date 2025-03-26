@@ -1,7 +1,7 @@
 import { NgModule } from '@angular/core';
 import { RouterModule, Routes } from '@angular/router';
 import {RemoteEntryComponent} from './remote-entry/remote-entry.component';
-const routes: Routes = [
+export const routes: Routes = [
   {
     path: '',
     component: RemoteEntryComponent,

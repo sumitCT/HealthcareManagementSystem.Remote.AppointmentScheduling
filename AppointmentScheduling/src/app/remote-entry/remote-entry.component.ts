@@ -1,7 +1,7 @@
 import { Component } from '@angular/core';
 
 @Component({
-  selector: 'app-remote-entry',
+  selector: 'app-appointment-scheduling',
   standalone: true,
   imports: [],
   templateUrl: './remote-entry.component.html',
