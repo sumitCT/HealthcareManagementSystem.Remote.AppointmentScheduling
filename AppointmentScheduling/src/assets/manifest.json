@@ -1,0 +1,7 @@
+{
+  "remoteName": "appointment-scheduling",
+  "exposedModule": "./Routes",
+  "displayName": "Appointment Scheduling",
+  "routePath": "appointments",
+  "version": "1.0.0"
+}
